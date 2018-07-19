@@ -1,7 +1,7 @@
 {
-  "name": "conference_in",
+  "name": "conference_in_example",
   "version": "1.0.0",
-  "description": "Punk React Test",
+  "description": "React Example",
   "scripts": {
     "build": "webpack",
     "start": "node server.js"
